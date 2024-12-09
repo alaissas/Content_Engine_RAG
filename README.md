@@ -2,6 +2,8 @@
 
 This project implements a Content Engine that analyzes and compares multiple PDF documents using Retrieval Augmented Generation (RAG) techniques. It's specifically designed to process and compare Form 10-K filings from different companies.
 
+https://drive.google.com/file/d/1I1_fYaW6pI46oGWnJu8Dn59vopmA3bkz/view?usp=sharing 
+
 ## Features
 
 - PDF document parsing and analysis
